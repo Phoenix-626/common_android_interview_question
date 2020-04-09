@@ -1,0 +1,2 @@
+1. [网络框架对比和源码分析](https://blog.csdn.net/github_37130188/article/details/89390541)
+2. [Comparison of Android networking libraries: OkHTTP, Retrofit, and Volley](https://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-and-volley)
